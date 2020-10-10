@@ -1,0 +1,14 @@
+.center{
+	text-align: center;
+	margin-top: 150px;
+	margin-left: 85px;
+	margin-right: 85px;
+	box-shadow: 1px 4px 10px black;
+	box-sizing: border-box;
+	font-size: 60px;
+	text-align: center;
+	font-weight: bold;
+	color: #F70099;
+	font-family: Comic Snas MS;
+}
+ 
